@@ -1,0 +1,12 @@
+.panda-panda-bg-info{
+    background-color: rgba(250, 237, 219, 0.929);
+}
+.utilityes img{
+    width: 100px;
+}
+.btn-color{
+    background: linear-gradient( rgba(246, 36, 116, 0.948), rgba(250, 29, 29, 0.858));
+    color: #fff;
+    padding: 10px 23px;
+    border: none;
+}
